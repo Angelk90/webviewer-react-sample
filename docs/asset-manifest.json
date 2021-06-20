@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.94ae8936.chunk.css",
-  "main.js": "/static/js/main.bd2f339b.chunk.js",
-  "main.js.map": "/static/js/main.bd2f339b.chunk.js.map",
-  "static/js/1.78d43f1a.chunk.js": "/static/js/1.78d43f1a.chunk.js",
-  "static/js/1.78d43f1a.chunk.js.map": "/static/js/1.78d43f1a.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.94ae8936.chunk.css.map": "/static/css/main.94ae8936.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.1c5b1cf1e67a651ef98b854f7a28aa1f.js": "/precache-manifest.1c5b1cf1e67a651ef98b854f7a28aa1f.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/webviewer-react-sample/static/css/main.94ae8936.chunk.css",
+  "main.js": "/webviewer-react-sample/static/js/main.bd2f339b.chunk.js",
+  "main.js.map": "/webviewer-react-sample/static/js/main.bd2f339b.chunk.js.map",
+  "static/js/1.78d43f1a.chunk.js": "/webviewer-react-sample/static/js/1.78d43f1a.chunk.js",
+  "static/js/1.78d43f1a.chunk.js.map": "/webviewer-react-sample/static/js/1.78d43f1a.chunk.js.map",
+  "runtime~main.js": "/webviewer-react-sample/static/js/runtime~main.23dd03fb.js",
+  "runtime~main.js.map": "/webviewer-react-sample/static/js/runtime~main.23dd03fb.js.map",
+  "static/css/main.94ae8936.chunk.css.map": "/webviewer-react-sample/static/css/main.94ae8936.chunk.css.map",
+  "index.html": "/webviewer-react-sample/index.html",
+  "precache-manifest.8459905a7330f87d588052cd9763eb2d.js": "/webviewer-react-sample/precache-manifest.8459905a7330f87d588052cd9763eb2d.js",
+  "service-worker.js": "/webviewer-react-sample/service-worker.js"
 }

@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/webviewer-react-sample/static/js/runtime~main.23dd03fb.js"
   },
   {
-    "revision": "bbb6cf44175e096807b85036e948e283",
+    "revision": "144f72981bc1306f5053bb8679e1dabf",
     "url": "/webviewer-react-sample/index.html"
   }
 ];

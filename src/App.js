@@ -9,7 +9,7 @@ const App = () => {
   useEffect(() => {
     WebViewer(
       {
-        path: '/webviewer/lib',
+        path: '/webviewer/public',
         initialDoc: 'https://docxtemplater.com/docs/simple.docx',
       },
       viewer.current,

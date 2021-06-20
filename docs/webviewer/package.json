@@ -1,7 +1,7 @@
 {
   "version": "7.3.3",
   "name": "@pdftron/webviewer",
-  "main": "https://angelk90.github.io/webviewer-react-sample/webviewer/webviewer.min.js",
+  "main": "webviewer.min.js",
   "author": "PDFTron",
   "homepage": "https://www.pdftron.com/documentation/web",
   "keywords": [
